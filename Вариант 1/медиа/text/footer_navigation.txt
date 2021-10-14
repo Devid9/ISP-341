@@ -1,0 +1,7 @@
+Home * (http://xxxxxx-m1.wsr.ru)
+Login * (http://xxxxxx-m1.wsr.ru/login)
+Sign up * (http://xxxxxx-m1.wsr.ru/signup)
+Contact * (http://xxxxxx-m1.wsr.ru/contact)
+News * (http://xxxxxx-m1.wsr.ru/news)
+Return * (http://xxxxxx-m1.wsr.ru/return)
+Feedback * (http://xxxxxx-m1.wsr.ru/feedback)
